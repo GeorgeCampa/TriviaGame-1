@@ -1,26 +1,26 @@
 body {
     background: url("../images/Homer.jpg");
-    background-color: rgb(216, 216, 126);
+    background-color: black;
     background-size: 100%;
-    padding: 10px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 #title {
     text-align: center;
-    font-size: 60px;
+    font-size: 80px;
     color: greenyellow;
+    background: rebeccapurple;
     font-style: bold;
     padding-top: 20px;
     padding-bottom: 5px;
 }
 
 #start {
-    color: pink;
+    color: springgreen;
     font-size: 20px;
-    background-color: red;
-    border: 1px solid yellow;
-    width: 15%;
+    background-color: dodgerblue;
+    border: 6px solid rgb(238, 238, 25);
+    width: 25%;
     height: 60%;
     display: block;
     margin: auto;
@@ -28,10 +28,12 @@ body {
 
 
 h2 {
-    text-align: left;
+    text-align: center;
     padding: 8px;
     font-size: 30px;
-    color: aqua;
+    color: red;
+    background: khaki;
+    border: 7px solid black;
 
 }
 
@@ -44,15 +46,10 @@ h3 {
     border: none;
     font-size: 28px;
     background: palevioletred;
-    text-align: left;
+    text-align: center;
     margin: 5%;
-    border: 1px solid black;
+    border: 7px solid black;
     display: inline;
     font-size: 25px;
-    color: azure;
-}
-
-#wrapper{
-    background: red;
-    padding: 20px
+    color: rgb(192, 255, 211)
 }
